@@ -26,5 +26,12 @@ SO THAT my account balance is accurate when I am traveling
 ```
 ## Installation and Usage
 
+For local host, simply run `npm install` and then `npm start` to run server on local host.
 
-## Screenshots
+## Screenshots + Instructions
+
+1. First, navigate to the deployed link and open the website. Then, turn off wifi or go offline. Enter your entries into the budget tracker.
+![offline](screenshots/offline.png)
+
+2. After entries are done, turn on Wifi (get online) and exit and reopen the link. The entries that were entered offline will appear online now. 
+![online](screenshots/online.png)
