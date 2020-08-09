@@ -2,21 +2,17 @@
 
 ## Description
 
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success. This budget tracker utilizes PWA practices to allow for offline access and functionality.
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Therefore, having offline functionality is paramount to our applications success. This budget tracker utilizes PWA practices to allow for offline access and functionality.
 
 ## Features
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
-Offline Functionality:
-
   * Enter deposits offline
 
   * Enter expenses offline
 
-When brought back online:
-
-  * Offline entries should be added to tracker.
+  * Offline entries should be added to tracker when brought back online
 
 ## User Story
 ```
