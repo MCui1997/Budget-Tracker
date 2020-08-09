@@ -4,6 +4,10 @@
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Therefore, having offline functionality is paramount to our applications success. This budget tracker utilizes PWA practices to allow for offline access and functionality.
 
+[Repo](https://github.com/MCui1997/Budget-Tracker)
+
+[Deployed](https://quiet-tor-22389.herokuapp.com/)
+
 ## Features
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
